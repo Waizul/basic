@@ -1,6 +1,6 @@
 import express from "express";
 import cookieParser from "cookie-parser";
-import path from path
+import path from 'path'
 
 import { UserRoutes } from "./modules/user/user.route.js";
 import { ListingRoutes } from "./modules/listing/listing.route.js";
